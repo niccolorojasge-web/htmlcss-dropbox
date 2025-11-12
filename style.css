@@ -23,3 +23,11 @@ a {
 .centrato {
     text-align: center;
 }
+.jumbo-img{
+    width:57% ;
+}
+.testo-proposte{
+    display: flex;
+    
+}
+main{background-color: aqua;}
