@@ -1,0 +1,25 @@
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+}
+.Funzioni {
+    display: inline-block;
+}
+
+.botton {
+    background-color: blue;
+    color: antiquewhite;
+    border: 15px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.centrato {
+    text-align: center;
+}
