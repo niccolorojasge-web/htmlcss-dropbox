@@ -1,3 +1,9 @@
+* {
+    
+    box-sizing: border-box;
+}
+
+
 .container-header {
     display: flex;
     justify-content: space-between;
@@ -61,6 +67,7 @@ a {
 .professionale{
     border: 2px solid;
     width: calc((100% - 20px * 2) / 3);
+    padding: .5rem;
 } 
 .container-pacchetti{
     margin: 0 auto;
@@ -68,7 +75,7 @@ a {
     padding: 30px;
     display: flex;
     gap: 20px;
-    height: 720px;
+    height: 800px;
 }
 .enterprise-container{
     margin:0 auto;
@@ -80,6 +87,7 @@ a {
 border: 2px solid;
     width: 800px;
     margin: 0 auto;
+    text-align: center;
 }
 .contenuto-enterprise{
 display: flex;
