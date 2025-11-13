@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "htmlcss-dropbox",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../../Downloads/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "htmlcss-dropbox"
+	}
+}
